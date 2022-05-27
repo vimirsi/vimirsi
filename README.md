@@ -2,7 +2,7 @@
 <img src="https://github.com/vimirsi/vimirsi/blob/main/landscape_pokemon.jpg" width= "1000" /> 
 <p aling="center">   
 
- <h3 aling="left">Skills and Tools for combat: <h3>
+ <h3 aling="left">Choose your starter: <h3>
      <img src="https://github.com/vimirsi/vimirsi/blob/main/Lance.gif" width="100" />  
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"  />
