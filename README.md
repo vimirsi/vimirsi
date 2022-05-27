@@ -11,4 +11,4 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="60" />
-     <img aling = "right" src="https://github.com/vimirsi/vimirsi/blob/main/02d.png" width = "150" />
+     <img aling = "right" src="https://github.com/vimirsi/vimirsi/blob/main/Charizard.gif" width = "150" />
