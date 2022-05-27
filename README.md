@@ -1,5 +1,5 @@
 </p alaing="center"> 
-<img src="https://github.com/vimirsi/vimirsi/blob/main/ryback-eating-ruffles-potato-chips-rayback.gif" width= "1000" /> 
+<img src="https://github.com/vimirsi/vimirsi/blob/main/702-BoaSemana.gif" width= "1000" /> 
 <p aling="center">   
 
  <h3 aling="left">Skills and Tools for combat: <h3>
