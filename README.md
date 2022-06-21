@@ -1,5 +1,5 @@
 <p alaing="center"> 
-<img src="https://github.com/vimirsi/vimirsi/blob/main/landscape_pokemon.jpg" width= "1000" /> 
+<img src= "https://github.com/vimirsi/vimirsi/blob/main/GitBack+_Tec.gif" width= "1000" /> 
 </p>   
 
  <!--<h3 align="center">Choose your starter: </h3>
